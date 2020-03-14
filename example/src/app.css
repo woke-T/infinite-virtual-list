@@ -1,0 +1,11 @@
+body,html {
+  margin: 0;
+  height: 100%;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}

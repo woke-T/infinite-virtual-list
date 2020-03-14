@@ -1,0 +1,22 @@
+.wrap {
+  height: 100%;
+  padding: 10px;
+  overflow: auto;
+  position: relative;
+  -webkit-overflow-scrolling: touch;
+  box-sizing: border-box;
+}
+.holdupBoard {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+}
+.showList {
+  width: 100%;
+  box-sizing: border-box;
+}
+.cardItem {
+  box-sizing: border-box;
+}
