@@ -2,7 +2,7 @@
   "name": "react-infinite-virtual-list",
   "version": "1.0.0",
   "description": "this is a infinite virtual list for react",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "start": "webpack-dev-server --config config/webpack.dev.config.js",
     "build": "webpack --config config/webpack.prod.config.js",
@@ -10,8 +10,7 @@
   },
   "keywords": [
     "infinite",
-    "virtual",
-    "list",
+    "virtual list",
     "react"
   ],
   "author": "woke",
