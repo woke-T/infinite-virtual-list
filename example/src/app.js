@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { render } from 'react-dom'
-import LongScrollView from '../../src/index'
+import LongScrollView from '../../src'
 import './app.css'
 import styels from './styles.css'
 
