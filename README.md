@@ -1,15 +1,15 @@
-# react-virtual-list
+# infinite-virtual-list
 This is a infinite virtual list for react
 
 ## How to use?
 
 ```sh
-npm install react-virtual-list --save
+npm install infinite-virtual-list --save
 ```
 
 ```sh
-import LongScrollView from 'react-virtual-list'
-import 'react-virtual-list/lib/main.min.css'
+import LongScrollView from 'infinite-virtual-list'
+import 'infinite-virtual-list/lib/main.min.css'
 
 return (
   <div>
@@ -41,8 +41,8 @@ scrollToBottom         页面触底事件钩子
 
 ```sh
 import React, { useState, useEffect } from 'react'
-import LongScrollView from 'react-virtual-list'
-import 'react-virtual-list/lib/main.min.css'
+import LongScrollView from 'infinite-virtual-list'
+import 'infinite-virtual-list/lib/main.min.css'
 import styles from './styles.module.css'
 
 function Home () {
