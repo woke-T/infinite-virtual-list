@@ -1,6 +1,6 @@
 {
   "name": "infinite-virtual-list",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "this is a infinite virtual list for react",
   "main": "lib/index.js",
   "scripts": {
@@ -13,6 +13,10 @@
     "virtual list",
     "react"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wokeT/infinite-virtual-list"
+  },
   "author": "woke",
   "license": "MIT",
   "devDependencies": {
@@ -32,5 +36,7 @@
     "webpack-dev-server": "^3.10.3",
     "webpack-merge": "^4.2.2"
   },
-  "files": ["lib"]
+  "files": [
+    "lib"
+  ]
 }
